@@ -173,7 +173,7 @@ As such, we’ll provide many examples that don’t compile along with the error
 message the compiler will show you in each situation. Know that if you enter
 and run a random example, it may not compile! Make sure you read the
 surrounding text to see whether the example you’re trying to run is meant to
-error. Ferris will also help you distinguish code that isn’t meant to work:
+return an error. Ferris will also help you distinguish code that isn’t meant to work:
 
 | Ferris                                                                                                           | Meaning                                          |
 |------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
